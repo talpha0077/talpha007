@@ -20,11 +20,11 @@
       "api": "http://db.taijuwang.cc/api.php/provide/vod/at/xml"
     },
     {
-      "key": "bilibili",
-      "name": "bilibili",
+      "key": "乐多数据",
+      "name": "乐多数据",
       "type": 0,
-      "api": "http://zy.itono.cn/inc/bilibili.php",
-      "playUrl": "https://www.cuan.la/m3u8.php?url="
+      "api": "http://api.leduosj.com/inc/api.php",
+      "playUrl": "http://api.xxctzy.com/wp-api/ifr.php?vid="
     },
     {
       "key": "Spider1",
@@ -51,7 +51,7 @@
       "api": "http://fackwiki5.xyz/api.php/provide/vod/at/xml"
     },
     {
-      "key": "丝袜资源",
+      "key": "丝袜",
       "name": "丝袜",
       "type": 0,
       "api": "https://www.siwazyw.com/api.php/provide/vod/at/xml"
@@ -1531,6 +1531,7 @@
     "tudou",
     "pptv",
     "mgtv",
+    "bilibili",
     "wasu"
   ],
   "ijk": [
